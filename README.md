@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [github.com/sun-28](https://github.com/Samar-28)
+- 👨‍💻 All of my projects are available at [Samar-28](https://github.com/Samar-28)
 
 - ⚡ Protfolio Website:(In Progress)
 - 💬 Ask me about **anything related to tech, I am always ready.**
