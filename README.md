@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Samar-28](https://github.com/Samar-28?tab=repositories)
 
-- ⚡ Protfolio Website:(In Progress)
+- ⚡ Protfolio Website: [samarpreet.me](https://samarpreet.me/)
   
 - 💬 Ask me about **anything related to tech, I am always ready.**
 
@@ -22,8 +22,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/samar28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sun28" height="30" width="40" /></a>
 <a href="https://instagram.com/sam_p_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunpreet_singh_28" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sampahwa28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sun28" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Samar_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sunpahwa28" height="30" width="40" /></a>
 </p>
 <br/>
 <h3 align="center">Languages and Tools:</h3>
